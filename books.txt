@@ -1,2 +1,2 @@
-echo Title: C Programming, Author: Dennis Ritchie, Genre: Programming > books.txt
+echo Title: Python Programming, Author: Taylor Swift, Genre: Programming > books.txt
 echo Title: Data Structures, Author: Mark Allen Weiss, Genre: Education >> books.txt
